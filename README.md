@@ -8,15 +8,15 @@ https://qiita.com/TEAM_OZAWA/items/f630fefbf92289eae39b
 ```
 git clone https://github.com/teamozawa/group_work.git
 ```
-- 保存済みのpredict_modelを```models```にコピーします。
+- 保存済みのpredict_modelを```models```フォルダにコピーします。
 ```
 cp PATH/eff3_model.h5 PATH/group_work/models
 ```
-- 保存済みのhold_vectorを```models```にコピーします。
+- 保存済みのhold_vectorを```models```フォルダにコピーします。
 ```
 cp PATH/hold_vector.npy PATH/group_work/models
 ```
-- ```group_work```のディレクトリに移動します。
+- ```group_work```ディレクトリに移動します。
 ```
 cd PATH/group_work/
 ```
