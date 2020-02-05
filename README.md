@@ -8,3 +8,11 @@
 ```
 git clone https://github.com/teamozawa/group_work.git
 ```
+- 保存済みの重みを```models```にコピーします。
+```
+cp PATH/eff3_model.h5 PATH/group_work/models
+```
+- 保存済みのデータファイルを```models```にコピーします。
+```
+cp PATH/hold_vector.npy PATH/group_work/models
+```
