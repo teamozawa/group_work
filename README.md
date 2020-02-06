@@ -2,7 +2,7 @@
 ※このモデルはラズベリーパイの使用を前提としています。
 
 https://qiita.com/TEAM_OZAWA/items/f630fefbf92289eae39b
-- 上記のURLに掲載されているコードを実装し、predict_modelを```eff3_model.h5```というファイル名で保存します。
+- 上記のURLのページに掲載されているコードを実装し、predict_modelを```eff3_model.h5```というファイル名で保存します。
 - 同じく、hold_vectorを```hold_vector.npy```というファイル名で保存します。
 - このディレクトリをクローンします。
 ```
